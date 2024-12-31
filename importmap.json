@@ -1,0 +1,7 @@
+{
+    "imports": {
+      "@pearson/header": "http://localhost:9002/pearson-header.js",
+        "@pearson/footer": "http://localhost:9001/pearson-footer.js",
+        "@pearson/soc": "http://localhost:9003/pearson-soc-search-page.js"
+    }
+}
